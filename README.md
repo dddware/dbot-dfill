@@ -1,5 +1,7 @@
 # dbot-dfill
 
+![Travis CI](https://travis-ci.org/dddware/dbot-dfill.svg)
+
 [dfill](http://dfill.cc) plugin for [dbot](https://github.com/dddware/dbot).
 
 ## Usage
