@@ -21,8 +21,5 @@
   "dependencies": {
     "follow-redirects": "0.0.3",
     "deferred": "~0.7.1"
-  },
-  "devDependencies": {
-    "jasmine-async": "0.0.1"
   }
 }
