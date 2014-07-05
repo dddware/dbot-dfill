@@ -17,5 +17,5 @@ dfill n
 ## Tests
 
 ```shell
-npm test # run tests
+npm test
 ```
